@@ -1,0 +1,15 @@
+# Dossier de compilation Maven
+target/
+
+# Fichiers de configuration Eclipse
+.settings/
+.classpath
+.project
+
+# Archives compilées
+*.war
+*.jar
+
+# Fichiers système
+.DS_Store
+Thumbs.db
